@@ -17,3 +17,19 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+.hero {
+    background-image: url('img1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    padding: 20;
+    position: relative;
+    overflow: hidden;
+}
