@@ -21,11 +21,9 @@ body {
 .link-button:hover {
     color: white;
     background-color: rgb(35, 123, 255);
-}
     box-shadow: 2px 3px #888888;
 }
 
-rama-fer
 .hero {
     background-image: url('img1.jpg');
     background-size: cover;
