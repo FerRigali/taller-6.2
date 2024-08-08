@@ -1,5 +1,6 @@
 body {
     background-color: rgb(255, 255, 165);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .image{
@@ -21,3 +22,27 @@ body {
     color: white;
     background-color: rgb(35, 123, 255);
 }
+    box-shadow: 2px 3px #888888;
+}
+
+rama-fer
+.hero {
+    background-image: url('img1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    padding: 20;
+    position: relative;
+    overflow: hidden;
+}
+
+p {
+text-align: center;
+}
+
